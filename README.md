@@ -14,7 +14,7 @@
 - Machine Learning: TensorFlow, scikit-learn,Numpy,Pandas
 - Web Development: HTML, CSS, JavaScript
 - Database: SQL, MongoDB,Postgres,MySQL
-- Frameworks:Django,Flask
+- Frameworks:Django,Flask,DjangoRestFramework
 
 
 ##  Connect with me:
