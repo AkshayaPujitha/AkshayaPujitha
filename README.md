@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **DeepLearning**
 
 - 🔭 I’m currently interested in **MachineLearning and SoftwareDevelopment**
+- 📍 I am currently pursuing my CSE degree at SVNIT
 
 
 <p align="left">
