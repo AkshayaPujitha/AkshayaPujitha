@@ -12,8 +12,8 @@
 
 ##  Skills
 ![Python](https://img.shields.io/badge/Python-skyblue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/HTML5-darkorange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
@@ -29,7 +29,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-red?style=for-the-badge&logo=scikit-learn)
 ![Seaborn](https://img.shields.io/badge/Seaborn-yellow?style=for-the-badge&logo=seaborn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=for-the-badge&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
 
 
