@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshaya Pujitha</h1>
 <h3 align="center">I am a passionate and dedicated software developer currently Pursuing a degree in Computer Science and Engineering (CSE).</h3>
 
-- 🌱 I’m currently learning **DeepLearning**
-
-- 🔭 I’m currently interested in **MachineLearning and SoftwareDevelopment**
-- 📍 I am currently pursuing my CSE degree at SVNIT
+- 🌱 I’m currently learning **AWS**
+- 🔭 I’m interested in **MachineLearning and SoftwareDevelopment**
+- 📍 I am currently pursuing CSE degree at SVNIT
 
 
 <p align="left">
