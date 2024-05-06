@@ -30,6 +30,13 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
+![PySpark](https://img.shields.io/badge/PySpark-yellow?style=for-the-badge&logo=apache-spark)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-orange?style=for-the-badge&logo=amazon-aws)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-blue?style=for-the-badge&logo=amazon-s3)
+![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-green?style=for-the-badge&logo=amazon-aws)
+
+
+
 
 
 ##  Connect with me:
